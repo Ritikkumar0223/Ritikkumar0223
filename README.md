@@ -1,4 +1,4 @@
-```html
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
@@ -63,11 +63,21 @@ Passionate about software development, problem-solving, and building impactful p
 
 ###
 
-<h2 align="left">🌐 Connect with me</h2>
+<h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
-💼 LinkedIn: www.linkedin.com/in/ritik-kumar-6404a7250 <br>
-🏆 LeetCode: https://leetcode.com/u/ritik8511__/ <br>
-📧 Email: ritik8511@gmail.com
+  <a href="https://www.linkedin.com/in/ritik-kumar-6404a7250">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://leetcode.com/u/ritik8511__/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="mailto:ritik8511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Ritikkumar0223&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 ```
