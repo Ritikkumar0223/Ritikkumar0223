@@ -1,13 +1,91 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
-- 📫 How to reach me **ritik8511@gmail.com**
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Problem Solver</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritik-kumar-6404a7250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-kumar-6404a7250" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ritik8511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritik8511" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritik8511__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik8511__" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ritikbzdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritikbzdy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Full+Stack+Development+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Engineering Student
+
+💻 Passionate about building scalable applications and solving real-world problems
+
+🌱 Currently exploring Full Stack Development, Cloud Computing, and Software Engineering
+
+⚡ Strong interest in Data Structures & Algorithms and Backend Development
+
+📚 Consistently improving through projects, coding challenges, and continuous learning
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,aws,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritikkumar0223&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikkumar0223&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikkumar0223&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Ritik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritikkumar0223&theme=tokyo-night)](https://github.com/Ritikkumar0223)
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Strengthening DSA & Problem Solving
+- 💻 Building Full Stack Projects
+- ☁️ Learning AWS & Cloud Technologies
+- 🎯 Preparing for Software Engineering Roles
+
+---
+
+## 🏆 Achievements
+
+- ✅ Solving Data Structures & Algorithms Problems
+- ✅ Building Real-World Development Projects
+- ✅ Exploring Cloud Computing and Modern Web Technologies
+- ✅ Continuous Learning & Skill Development
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ritik-kumar-6404a7250/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ritik8511__/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ritik8511@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💡 Quote
+
+> "Success is the sum of small efforts repeated day in and day out."
+
+⭐ Thanks for visiting my profile!
